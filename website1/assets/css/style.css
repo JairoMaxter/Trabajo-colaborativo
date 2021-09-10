@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+
+h1.first_heading_text{ 
+    background-color: darkgreen;
+    color: aqua;}
+span.first_heading_text{ 
+    background-color: darksalmon;
+    color: darkgray;}
