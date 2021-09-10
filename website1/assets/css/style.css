@@ -16,18 +16,13 @@ body{
 .titulo {
     background-image: none;
     background-color: white;
-   
-    
-}
+   }
 
 .subtitulo{
     background-image: none;
     margin-top: 10px;
     background-color: #ffffff;
 }
-
-
-
 .row {
     margin: 40px 0 40px 0;
  }
