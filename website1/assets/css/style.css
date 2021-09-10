@@ -3,20 +3,15 @@ body{
 }
 
 .tagline {
-        height: 400px;
         background-image: url(/website1/assets/img/bg.jpg) ; 
-
-        //*para que se vea la imagen completa es  background-size 55rem pero no queda el ancho completo*//  
-
-        background-size: ;
-        background-repeat:no-repeat;
+        height: 500px;
         width: 100%;
+        //*para que se vea la imagen completa es  background-size 55rem pero no queda el ancho completo*//              
+        background-size: contain;
         text-align: center;
         padding-top: 30px;
         margin-top: 50px;
-        
-           
-} 
+        } 
 
 .titulo {
     background-image: none;
