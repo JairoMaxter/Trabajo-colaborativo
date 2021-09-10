@@ -2,6 +2,37 @@ body{
     background: #ffffff;
 }
 
+.tagline {
+        height: 400px;
+        background-image: url(/website1/assets/img/bg.jpg) ; 
+
+        //*para que se vea la imagen completa es  background-size 55rem pero no queda el ancho completo*//  
+
+        background-size: ;
+        background-repeat:no-repeat;
+        width: 100%;
+        text-align: center;
+        padding-top: 30px;
+        margin-top: 50px;
+        
+           
+} 
+
+.titulo {
+    background-image: none;
+    background-color: white;
+   
+    
+}
+
+.subtitulo{
+    background-image: none;
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+
+
+
 .row {
     margin: 40px 0 40px 0;
  }
@@ -18,3 +49,6 @@ body{
     border:1px solid rgb(100, 8, 23);
     width: 250px;
     height:250px;}
+
+
+
