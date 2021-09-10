@@ -6,22 +6,26 @@ body{
         background-image: url(/website1/assets/img/bg.jpg) ; 
         height: 500px;
         width: 100%;
-              
-        background-size: contain;
+        background-size: cover ;
+        background-repeat: no-repeat;
         text-align: center;
         padding-top: 30px;
-        margin-top: 50px;
+        
         } 
 
 .titulo {
+    color: black;
     background-image: none;
     background-color: white;
+    opacity: 0.6;
    }
 
 .subtitulo{
+    color: black;
     background-image: none;
     margin-top: 10px;
-    background-color: #ffffff;
+    background-color: white;
+    opacity: 0.6;
 }
 .row {
     margin: 40px 0 40px 0;
