@@ -1,10 +1,20 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
-h1.first_heading_text{ 
-    background-color: darkgreen;
-    color: aqua;}
-span.first_heading_text{ 
-    background-color: darksalmon;
-    color: darkgray;}
+.row {
+    margin: 40px 0 40px 0;
+ }
+
+.first_heading_text h3{ 
+    color: rgb(133, 133, 133);}
+
+.first_heading_text span{ 
+    color: rgb(0, 0, 0);}
+
+.first_heading_image img{ 
+    display: flex;
+    justify-content: space-around;
+    border:1px solid rgb(100, 8, 23);
+    width: 250px;
+    height:250px;}
