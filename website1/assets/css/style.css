@@ -13,12 +13,11 @@ body{
         
         } 
 
-.titulo {
+#titulo {
     color: black;
     background-image: none;
-    background-color: white;
-    opacity: 0.6;
-   }
+    background-color: rgba(255, 255, 255,.5);
+       }
 
 .subtitulo{
     color: black;
@@ -28,7 +27,7 @@ body{
     opacity: 0.6;
 }
 .row {
-    margin: 40px 0 40px 0;
+    margin: 80px 0 80px 0;
  }
 
 .first_heading_text h3{ 
@@ -46,3 +45,4 @@ body{
 
 
 
+div{}
